@@ -32,7 +32,7 @@ public class Index extends JFrame{
 				new Copiar();
 			}
 			if(evento.getSource()==criar){
-				System.out.println("Criar Arquivo");
+				new Criar();
 			}
 		}
 		
